@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css?family=Risque|Roboto&display=swap');
+
+*{
+  font-family: Roboto, sans-serif;
+}
+
+
+/* HEADER */
+.overLine{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+.menu ul li a{
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.menuLeft ul li{
+  font-size: 12px;
+  font-weight: bold;
+}
+
+
+/* !!!!!!!!!!!!!!!!!!!!! */
+
+/* POST */
+
+.categoryPost, .hover, .superProject, .categoryPostSlider, .yet{
+  font-size: 12px;
+}
+
+.mainTextPost, .mainTextPostSlider{
+  font-size: 18px;
+}
+
+.secondTextPost, .secondTextPostSlider{
+  font-size: 14px;
+}
+
+/* news */
+.liForNew{
+  font-size: 15px;
+}
+
+
+/* FOOTER */
+
+.age18, .footerDivIcons, .mainTextRightLogo{
+  font-size: 12px;
+}
+
+.footerText{
+  font-size: 14px;
+}
+
+.footerNav li{
+  font-size: 11px;
+}
+
+.footerLogoNoClick{
+  font-size: 20px;
+}
+
+.categoryText{
+  font-size: 38px;
+  font-weight: bold;
+}
+
+.underCategory{
+  font-size: 14px;
+}
+
+.popularTopics{
+  font-size: 11px;
+}
+
+::-webkit-input-placeholder { font-size: 22px; }
+::-moz-placeholder          { font-size: 22px; } /* Firefox 19+ */
+:-moz-placeholder           { font-size: 22px; } /* Firefox 18- */
+:-ms-input-placeholder      { font-size: 22px; }
+
+input, .resultSearchText{
+  font-size: 22px;
+}
+
+.fa-search{
+  font-size: 20px;
+}
